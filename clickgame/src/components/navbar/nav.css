@@ -1,0 +1,25 @@
+.nav {
+   display: flex;
+   grid-column: 1/11;
+   grid-row: 1/4;
+   background-color: blue;
+   border-bottom: solid 3px gray;
+   z-index: 20;
+}
+.navLogo {
+   grid-column: 2/ 3;
+   grid-row: 2/3;
+   margin: auto;
+   color: black;
+   cursor: pointer;
+}
+.navTitle {
+   grid-column: 5/7;
+   grid-row: 1/2;
+   margin: auto;
+}
+.scoreTitle {
+   grid-column: 8/11;
+   grid-row: 2/3;
+   margin: auto;
+}

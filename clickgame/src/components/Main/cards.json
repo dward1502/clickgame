@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bodyboard 1",
+    "image": "../../images/bodyboard1.jpg"    
+  },
+  {
+    "id": 2,
+    "name": "Bodyboard 2",
+    "image": "../images/bodyboard2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bodyboard 3",
+    "image": "../../images/bodyboard3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bodyboard 4",
+    "image": "../../images/bodyboard4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bodyboard 5",
+    "image": "../../images/bodyboard5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bodyboard 6",
+    "image": "../../images/bodyboard6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bodyboard 7",
+    "image": "../../images/bodyboard7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bodyboard 8",
+    "image": "../../images/bodyboard8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bodyboard 9",
+    "image": "../../images/bodyboard9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bodyboard 10",
+    "image": "../../images/bodyboard10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bodyboard 11",
+    "image": "../../images/bodyboard11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bodyboard 12",
+    "image": "../../images/bodyboard12.jpg"
+  }
+]
