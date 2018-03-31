@@ -4,3 +4,9 @@
   grid-auto-rows: minmax(25px, auto);
   grid-gap: 5px;
 }
+.main-container {
+  display: flex;
+  grid-row: 17/40;
+  grid-column: 2/10;
+  background: forestgreen;
+}
