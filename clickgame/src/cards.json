@@ -3,71 +3,73 @@
     "id": 1,
     "name": "Bodyboard 1",
     "image": "https://www.riptidemag.com.au/wp-content/uploads/64cc39b77ed73850331f330b81fb3b3f-1024x682.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 2,
     "name": "Bodyboard 2",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWSatge-XpJ14CWUkxDoQSjXUJVYgHQ449ndjeNG5iVYcf-IEhQ",
-    "count": 0
+    "click": false
   },
   {
     "id": 3,
     "name": "Bodyboard 3",
     "image": "https://surf-report.co.uk/wp-content/uploads/Pierre-Louis-Costes-Obrigado-Portugal..jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 4,
     "name": "Bodyboard 4",
-    "image": "http://www.webodyboard.com/wp-content/uploads/2013/01/newport-wedge-bodyboarding.jpg"
+    "image": "http://www.webodyboard.com/wp-content/uploads/2013/01/newport-wedge-bodyboarding.jpg",
+    "click":false
+
   },
   {
     "id": 5,
     "name": "Bodyboard 5",
     "image": "https://cdn2.theinertia.com/wp-content/gallery/wedge-ventura-marcio/sv2a8157.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 6,
     "name": "Bodyboard 6",
     "image": "https://i.pinimg.com/originals/51/6e/11/516e11ded873fccce07e50bcc75a5ac9.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 7,
     "name": "Bodyboard 7",
     "image": "http://i.imgur.com/gud65bv.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 8,
     "name": "Bodyboard 8",
     "image": "http://www.webodyboard.com/wp-content/uploads/2012/01/jeff-hubbard-air.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 9,
     "name": "Bodyboard 9",
     "image": "https://garagecache.azureedge.net/2/d/d/3/7/4/2dd3744b0f51750f41a1062894fc2759b1fcac97.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 10,
     "name": "Bodyboard 10",
     "image": "https://i.ytimg.com/vi/QQNTxIHDEOc/hqdefault.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 11,
     "name": "Bodyboard 11",
     "image": "https://i.pinimg.com/736x/35/bd/68/35bd68eaac5af633740e1efb9c54af9c--surfing-pipe.jpg",
-    "count": 0
+    "click": false
   },
   {
     "id": 12,
     "name": "Bodyboard 12",
     "image": "https://www.surfertoday.com/images/stories/mikestewart8.jpg",
-    "count": 0
+    "click": false
   }
 ]

@@ -1,12 +1,14 @@
 .card{
-   display: inline-flex;
+   /* display: inline-flex; */
    width: 200px;
    height: 200px;
    background-color: dimgray;
    margin: 30px;
-   flex-direction: column;
    border: solid 8px gray;
    cursor: pointer;
+}
+.img-container{
+   flex-wrap: wrap;
 }
 
 
